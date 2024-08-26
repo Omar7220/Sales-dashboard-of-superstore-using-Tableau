@@ -30,7 +30,8 @@ This Tableau dashboard is designed to provide an in-depth analysis of store perf
 
 ## Screenshot
 Below is a screenshot of the Tableau dashboard:
-![Screenshot 2024-08-26 223857](https://github.com/user-attachments/assets/7ef66e5c-27f0-40ed-8a73-658916a8309d)
+![Screenshot 2024-08-26 230110](https://github.com/user-attachments/assets/28c2fb23-1662-4513-a75c-b4884d97f03c)
+
 
 ## datasource 
 you can find the data source used in this dashboard attaced to this repostory
